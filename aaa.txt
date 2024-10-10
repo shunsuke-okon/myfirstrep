@@ -5,4 +5,8 @@ this is a cloned one which is in myfirstrep2.
 
 this is a cloned one which is in myfirestrep2_1
 
+<<<<<<< HEAD
 BBB
+=======
+AAA
+>>>>>>> 870398e13072f0ad34bccfb859b25168e11c7a29
