@@ -1,2 +1,4 @@
 "This is a new file" 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+this is a cloned one which is in myfirstrep2.
