@@ -7,3 +7,5 @@ this is a cloned one which is in myfirestrep2_1
 
 
 BBB
+
+added1
